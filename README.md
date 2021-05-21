@@ -1,6 +1,6 @@
 # Predicting Emergency Medical Services Call Volume in New York City
 
-### DSI 2-22-E Project 5, Group 1
+### Collaborators
 * Chris Caress
 * Christina Holland
 * Ashley Poon
