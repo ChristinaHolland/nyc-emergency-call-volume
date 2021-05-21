@@ -12,7 +12,7 @@
 
 While these features are beyond our control, the goal of this project is to increase preparedness for a surge in emergency services given specific conditions. Using predictive modeling, we hope to be able to provide an indication of when the city should increase staff in emergency call centers or even on response teams.
 
-## Table of Contents - TBD after the repo is reorganized
+## Table of Contents 
 
 ## [Click Here for the Executive Summary](ExecSummary.md)
 
